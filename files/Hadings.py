@@ -1,5 +1,5 @@
 from colorama import init
-from Writer import writer
+from files.Writer import writer
 
 init()
 
