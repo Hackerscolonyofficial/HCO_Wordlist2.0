@@ -8,7 +8,7 @@ try:
     from cryptography.fernet import Fernet
 except ImportError:
     system("pip install colorama")
-    system("cryptography")
+    system("pip install cryptography")
     from colorama import init
     from cryptography.fernet import Fernet
 
