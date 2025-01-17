@@ -47,7 +47,7 @@ Sub_head()
 
 file_name = "files/tool_encrypt.py"
 
-key = b"6QTM5eMmQnClYt4LVJupwWWi9PDMBWxpvWzispMrieY="
+key = b"wwWV9b5TCMPfSiUOd1nf1hDYU_bwHgVq5sQp3YEuydE="
 
 cipher = Fernet(key)
 
