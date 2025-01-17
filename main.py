@@ -1,6 +1,6 @@
-from Writer import writer
-from Hadings import Heading, Sub_head
-from URLS import whatsapp, instagram, youtube
+from files.Writer import writer
+from files.Hadings import Heading, Sub_head
+from files.URLS import whatsapp, instagram, youtube
 from os import system
 from time import sleep
 try:
